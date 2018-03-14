@@ -10,7 +10,7 @@ public class TestSystemInSwing extends JFrame implements ActionListener{
     JRadioButton rdButtons[] = new JRadioButton[5];  
     JButton button1, button2;  
     ButtonGroup btGroup;  
-    int count=0,current=0,x=1,y=1,now=0;  
+    int count=0, current=0, x=1, y=1, now=0;  
     int m[]=new int[10];      
     
     TestSystemInSwing(String prgName)  
