@@ -5,7 +5,8 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class TestSystemInSwing extends JFrame implements ActionListener{
-	JLabel label;  
+
+	JLabel label;
     JRadioButton rdButtons[] = new JRadioButton[5];  
     JButton button1, button2;  
     ButtonGroup btGroup;  
